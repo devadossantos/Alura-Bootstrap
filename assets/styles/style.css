@@ -5,6 +5,24 @@
     width: 325px;
    
 }
-
-
-
+.bi, .big-text{
+    color: #DAFF01;
+}
+.small_text{
+    color: #CCCCCC;
+}
+.btn1{
+    background-color: #9353FF;
+    border: none;
+    border-radius: 0
+    ;
+}
+.sem_borda{
+    border-radius: 0px;
+}
+.borda_branca{
+    border: 1px solid rgb(255, 255, 255);
+}
+.texto_branco{
+    color: white;
+}
